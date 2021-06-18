@@ -22,7 +22,8 @@
         "path": "pwsh",
         "icon": "terminal-powershell"
       }
-    }
+    },
+    "terminal.integrated.defaultProfile.linux": "zsh"
   },
   "extensions": [
     "esbenp.prettier-vscode"
